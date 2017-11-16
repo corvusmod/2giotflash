@@ -4,7 +4,7 @@ Script based fully on work of Orhan Kavrakoğlu (https://www.aib42.net/article/h
 My only contribution is merging it in a script and adding WiFi script.  
   
 Tested on Armbian image  
-Steps:
+Steps:  
 1. Set debug selector switch on 1-4: Up, 5-8: Down
 2. Push powerbutton down
 3. Connect to computer via USB
